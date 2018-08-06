@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "99875515893",
+    "firebase_url": "https://tradetips-7fc8a.firebaseio.com",
+    "project_id": "tradetips-7fc8a",
+    "storage_bucket": "tradetips-7fc8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99875515893:android:a10e4f9de216bdc4",
+        "android_client_info": {
+          "package_name": "iprime.tradetips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99875515893-f3if78iu1u9jp98ab1k968i760k7oasm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLFjgRPNWeoMHH6o_fMxfPwIVPy7U-PlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
